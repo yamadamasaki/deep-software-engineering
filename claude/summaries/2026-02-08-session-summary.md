@@ -36,7 +36,11 @@ dialogue: dialogues/2026-02-08-premises-review.md
 - frontmatter: date, participants, topic, related
 - 将来的にフォーマット自体を artifacts として設計する課題あり
 
+## 作成した成果物
+
+- artifacts/proposal-draft-1.md — 提案書の初稿。Human がじっくり読んで自分の案も出すとのこと
+
 ## 次にやるべきこと
 
-- 提案書の骨格 4（成果物・進め方）と 5（体制・読者へのメッセージ）を詰める
-- 提案書の初稿を artifacts/ に作成する
+- Human からの提案書初稿へのフィードバックを受けて改訂する
+- Human 自身の案との統合
