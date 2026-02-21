@@ -8,7 +8,7 @@
 
 architecture は技術的および社会的な (広い範囲で) 共有可能な言明の集合であり, requirement は今眼前に対象 (あるいはその理想像) としてあるものについての固有な言明の集合である. この二つはかなり異なるものであり, 材料としてはそれぞれに本質的ではあるが, そのままでは混じり合わないし, 何らかの構築物を構成するものではない.
 
-いわゆる「ソフトウェア構築 (開発)」をわたしたちはこの二種類の材料の「乳化過程」(もちろん比喩である) として考える ([emulsion process](./emulsion-process.md)).
+いわゆる「ソフトウェア構築 (開発)」をわたしたちはこの二種類の材料の「乳化過程」(もちろん比喩である) として考える ([emulsification process](./emulsification-process.md)).
 
 この「乳化過程」は一段階で完了するとは限らず, 完成 (があるとすれば, そこ) に至るまで複数の段階を必要とする場合もある. 複数の段階の構成にはさまざまなパタンがあり得る. 例えば
 
@@ -24,7 +24,7 @@ architecture は技術的および社会的な (広い範囲で) 共有可能な
 
 このモデルの三つの基本概念 (とそれらの統合) のより詳細は以下を参照のこと.
 
-1. [emulsion process](./emulsion-process.md)
+1. [emulsification process](./emulsification-process.md)
 2. [requirement/architecture coevolution](./requirement-architecture-coevolution.md)
 3. [dialogue](./dialogue.md)
 4. [an integration](./an-integration.md)
