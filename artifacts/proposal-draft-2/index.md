@@ -13,10 +13,8 @@ architecture は技術的および社会的な (広い範囲で) 共有可能な
 この「乳化過程」は一段階で完了するとは限らず, 完成 (があるとすれば, そこ) に至るまで複数の段階を必要とする場合もある. 複数の段階の構成にはさまざまなパタンがあり得る. 例えば
 
 - 線形 (直線的)
-- 並列
 - 木
 - 束
-- ネットワーク
 
 このとき, この過程によって requirement も architecture も変化 (transformation) を被り, architecture から requirement へのフィードバックが生じることになる ([requirement/architecture coevolution](./requirement-architecture-coevolution.md)).
 
@@ -27,7 +25,6 @@ architecture は技術的および社会的な (広い範囲で) 共有可能な
 1. [emulsification process](./emulsification-process.md)
 2. [requirement/architecture coevolution](./requirement-architecture-coevolution.md)
 3. [dialogue](./dialogue.md)
-4. [an integration](./an-integration.md)
 
 ## 深ソフトウェア工学との整合性
 
