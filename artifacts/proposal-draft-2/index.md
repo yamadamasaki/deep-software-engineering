@@ -2,7 +2,7 @@
 
 ## 概要
 
-[proposal-draft-1](./proposal-draft-1.md) (本リポジトリ内) あるいは [深ソフトウェア工学](https://yamadamasaki.github.io/deep-software-engineering/) (外部リンク) で述べたような, 新たなソフトウェア工学の一つのモデルを提案する.
+[proposal-draft-1](./proposal-draft-1.md) (本リポジトリ内) あるいは [深ソフトウェア工学](https://yamadamasaki.github.io/deep-software-engineering/) (外部リンク) で述べたような, 新たなソフトウェア工学の一つのモデル (model01 と呼ぶ. 可能ならば複数のモデルを提出し, それらを比較検討したい) を提案する.
 
 このモデルでは, requirement と architecture という (わたしたちにとっては馴染みのある用語である) 二種類の材料 (material) から出発する. これらの実体はともに, 広い意味での言語による表現の集合である.
 
